@@ -2,9 +2,10 @@
 * Created: 2025.03.30
 * Last Update: 2025.04.02
 
-## LeetCode
-
-1. [LeetCode 204.Count Primes](https://obpxnfxm.github.io/LeetCode/LeetCode204.Count_Primes.html)
+* [LeetCode](leetcode)
+* [COMP9021](comp9021)
+* <math>
+* <mis>
 
 ## Notice
 
