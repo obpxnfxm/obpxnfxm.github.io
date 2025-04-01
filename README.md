@@ -8,4 +8,4 @@
 
 ## Notice
 
-1. Should not use '_' in folder names
+1. Should not use '_' in folder names (allowed in file names)
