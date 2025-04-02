@@ -6,8 +6,9 @@
 
 * [LeetCode](leetcode)
 * [COMP9021](comp9021)
-* [math](math)
-* [mis](mis)
+* [GSOE9820](gsoe9820)
+* [Mathematics](math)
+* [Miscellaneous](mis)
 
 ## Notice
 
