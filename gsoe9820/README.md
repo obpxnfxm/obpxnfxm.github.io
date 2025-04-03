@@ -64,5 +64,5 @@
 ## mis
 
 1. 2025.03.13. [IT Sponsor Consultation Recording](https://unsw-my.sharepoint.com/:v:/g/personal/z5121033_ad_unsw_edu_au1/EW6KW79pgcZPj5QO_8YroEUBEM88ST2UDrkr29Xhgh_yvw?e=6H4Yyt)
-2. 2025.03.13. [Wind Farm Sponsor Consultation Session Recording][https://unsw-my.sharepoint.com/:v:/g/personal/z5121033_ad_unsw_edu_au1/EV-ariClnkNOq82n35zl2kgBTxX731QsyykLHIW7cDruYg?e=URt1nA]
+2. 2025.03.13. [Wind Farm Sponsor Consultation Session Recording](https://unsw-my.sharepoint.com/:v:/g/personal/z5121033_ad_unsw_edu_au1/EV-ariClnkNOq82n35zl2kgBTxX731QsyykLHIW7cDruYg?e=URt1nA)
 3. 2025.03.13. [Transport Sponsor Consultation Session Recording](https://unsw-my.sharepoint.com/:v:/g/personal/z5121033_ad_unsw_edu_au1/EVlWsoLglAxIvL7PPKqbTvMB0645BgEi2C8GXeq1HJeN5g?e=HAPbTU)
