@@ -1,7 +1,6 @@
 # GSOE9820 - 25T1
 
-1. [Week04 - Charter Stakeholder](Week04-CharterStakeholder.html)
-2. [Week04 - Charter Stakeholder.pdf](<Week04-CharterStakeholder.pdf>)
+1. [Final Quiz time](https://teams.microsoft.com/l/message/19:_iuLM-Onx6sToEl37wgei9347B0hAzopTtf_AN7B3bE1@thread.tacv2/1743732776402?tenantId=3ff6cfa4-e715-48db-b8e1-0867b9f9fba3&groupId=abb1f580-dac1-4659-8b2f-df8b1a41279e&parentMessageId=1743732776402&teamName=GSOE9820%202025%20T1%20-%20Engineering%20Project%20Management&channelName=General&createdTime=1743732776402)
 
 ## Resources
 
