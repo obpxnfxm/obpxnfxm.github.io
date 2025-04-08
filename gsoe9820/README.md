@@ -65,6 +65,7 @@
 1. Lecture Preview.
 2. Slides
 3. [Lecture recordings]()
+4. Team Message. [PMP Change Request & EV Quiz](https://teams.microsoft.com/l/message/19:_iuLM-Onx6sToEl37wgei9347B0hAzopTtf_AN7B3bE1@thread.tacv2/1743977916085?tenantId=3ff6cfa4-e715-48db-b8e1-0867b9f9fba3&groupId=abb1f580-dac1-4659-8b2f-df8b1a41279e&parentMessageId=1743977916085&teamName=GSOE9820%202025%20T1%20-%20Engineering%20Project%20Management&channelName=General&createdTime=1743977916085)
 
 ## mis
 
@@ -86,3 +87,4 @@
 2. [Risk, Cost, Schedule - Examples](risk_cost_schedule_example.html)
 3. [Assignment task 2 - PMP Guideline](ASSIGNMENT1_Part2_CONTENT_GUIDANCE_final.html)
 4. [W5 Lecture Slides - Reminders and Assignment Info](W5_9820_Assignment_Reminders_Slides.html)
+5. 2025.04.07, [IT-Change Request](IT-change_request.pdf)
