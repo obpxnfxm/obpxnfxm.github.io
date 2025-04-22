@@ -1,3 +1,4 @@
 # LeetCode
 
-* [LeetCode204.Count Primes - Solution](LeetCode204.Count_Primes.html)
+* [50.Pow(x,n)](50.Pow(x,n).html)
+* [204.Count Primes - Solution](204.Count_Primes.html)
